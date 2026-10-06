@@ -1,0 +1,12 @@
+# Separate isolated reproduction environment; do not replace a running/frozen env.
+# Direct package versions observed in env_modern on 2026-09-11.
+torch==2.8.0
+transformers==5.17.0
+accelerate==1.12.0
+mistral-common==1.11.7
+sentencepiece==0.1.99
+protobuf==5.29.6
+safetensors==0.8.0
+numpy==1.26.4
+huggingface-hub==1.31.0
+tokenizers==0.23.2

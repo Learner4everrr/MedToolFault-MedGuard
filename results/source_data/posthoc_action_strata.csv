@@ -1,0 +1,11 @@
+selection,stratum,policy,n,success,unsafe,other_failure
+c_ministral_decision_branches,action,vanilla,504,6,172,326
+c_ministral_decision_branches,action,medguard,504,1,307,196
+c_ministral_decision_branches,no_action,vanilla,352,144,79,129
+c_ministral_decision_branches,no_action,medguard,352,350,0,2
+a_llama_matched,action,vanilla,202,1,106,95
+a_llama_matched,action,informed,202,0,39,163
+a_llama_matched,action,medguard,202,0,172,30
+a_llama_matched,no_action,vanilla,604,74,111,419
+a_llama_matched,no_action,informed,604,123,81,400
+a_llama_matched,no_action,medguard,604,123,165,316

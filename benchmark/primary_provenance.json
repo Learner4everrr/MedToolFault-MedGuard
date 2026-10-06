@@ -1,0 +1,24 @@
+{
+  "frozen_at": "2026-09-11T22:13:23.928923+00:00",
+  "manifest_hash": "f3ac73330228d5a2dd53d6359ac0f684a8d7b9dd2ee1c5b7919ea634c15e1689",
+  "core_hashes": {
+    "research/contracts.py": "8e21174710d543b0021d9987b9573e0e7fea8dba09c7f2f69102f69a1d645e02",
+    "research/fhir.py": "759cbf285aabf77ea03ae1b7674e5fc0f7588a1f86aff5fee49366e5fdb25653",
+    "research/models.py": "00172496118d05e2a1ea72ce5a45a6258a814fb51f76f2e0c6a86eeed079624c",
+    "research/protocol.py": "db1c00af02a4234226fbd2125974b44313c93aad0837536c01bdbf852a80f71d",
+    "research/transport.py": "2e55b2f2a45a4eac77a7d6379b6db14fddc8efc50de8a2f3c6422db74e52b73d",
+    "research/run.py": "3dda4c38e567f7a47de1e789f427e4f00110c48e3e52c6607c1799ade3ecb732",
+    "research/oracle.py": "68217a6c52ef3792524f6d1d909232b7e9bc51a4e9f2bb72483be0a99d94b81a",
+    "research/input_validation.py": "ac31a46b2bfc2d1ef0d9162f6f71983e647609a006d15ec72c993d0faa849b74",
+    "research/runtime.py": "1bc9fea0fd364dc05df180ae3586a3e7e34a9467943a98625185b8360a0ed2ce",
+    "research/build.py": "dc7e9462f336414f7151ca4ad84f989f0434f7ae529780ebd45d92f3c1435569",
+    "research/job_state.py": "454c6894a04e5a0ac72b6d4f1459f50a95781a9efa33944526ded7e08f878463",
+    "storage.py": "9c047530a2b56070f8008a61a9d4642bc547b7eac320ebbfe97ef01011f14c27",
+    "grading.py": "62a15632ae8ac6ae6a98cd62d845d70c50fc0767af56e2891968e5656e992a7a",
+    "run_local.py": "5ce42ebb0060048ed2e0a3723200a25cc7a25f269e909ff87935e5179c35fac8"
+  },
+  "image_sha256": "32945049d13cbd0d93c46fa621d004ea7be4041af2d3eb0b4380ab2b0b89c646",
+  "note": "Frozen hashes describe the historical experiment; current release source hashes are recorded separately.",
+  "medagentbench_revision": "99260117137b09f04837a8c18d18a1107efa55ae",
+  "fhir_agentbench_revision": "bbb42909a5a7eb907d1cd91f72a560729e7037ea"
+}

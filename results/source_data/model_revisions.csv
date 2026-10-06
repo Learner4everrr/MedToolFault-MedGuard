@@ -1,0 +1,11 @@
+name,repo_id,family,thinking,revision,batch_size,model_type,weight_bytes,preexisting_shared_cache,inference_api,transport,reasoning_effort,quantization
+qwen35_9b,Qwen/Qwen3.5-9B,Qwen,False,c202236235762e1c871ad0ccb60c8ee5ba337b9a,2,qwen3_5,19306310880,False,False,,,
+ministral3_8b,mistralai/Ministral-3-8B-Instruct-2512,Mistral,False,5b26027e7b19eeb4b7352e1fed3926375dd2cb4d,2,mistral3,10420654824,False,False,original-json,,
+qwen25_7b,Qwen/Qwen2.5-7B-Instruct,Qwen,False,a09a35458c702b33eeacc393d103063234e8bc28,4,qwen2,15231271888,True,False,,,
+qwen25_14b,Qwen/Qwen2.5-14B-Instruct,Qwen,False,cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8,2,qwen2,29540134000,True,False,,,
+qwen3_8b,Qwen/Qwen3-8B,Qwen,False,b968826d9c46dd6066d109eabc6255188de91218,4,qwen3,16381516776,True,False,,,
+qwen3_8b_thinking,Qwen/Qwen3-8B,Qwen,True,b968826d9c46dd6066d109eabc6255188de91218,4,qwen3,16381516776,True,False,,,
+llama31_8b,meta-llama/Llama-3.1-8B-Instruct,Llama,False,0e9e39f249a16976918f6564b8830bc894c89659,2,llama,16060556376,True,False,llama-json-prefill-b-lite-v1,,
+gemma3_12b,google/gemma-3-12b-it,Gemma,False,96b6f1eccf38110c56df3a15bffe176da04bfd80,2,gemma3,24374793024,True,False,,,
+phi4_mini,microsoft/Phi-4-mini-instruct,Phi,False,cfbefacb99257ffa30c83adab238a50856ac3083,4,phi3,7672066216,True,False,,,
+gptoss20b,openai/gpt-oss-20b,GPT-OSS,True,6cee5e81ee83917806bbde320786a8fb61efebee,2,gpt_oss,,,False,harmony-external-b-lite-v1,low,native MXFP4

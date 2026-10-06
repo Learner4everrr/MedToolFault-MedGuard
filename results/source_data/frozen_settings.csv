@@ -1,0 +1,24 @@
+plan,arm,seed,max_turns,max_new_tokens,max_context,raw_call_budget,temperature,stress
+data/gptoss_compile_recovery_v1/combined_a/plan.json,matched_controls,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,operation_matched,20260917,12,2048,16384,48,0,{'placement': 'agent_target'}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,repeated_faults,20260917,12,2048,16384,48,0,{'repeat': 3}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,compound_faults,20260917,12,2048,16384,48,0,{'repeat': 1}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,visibility_delay,20260917,12,2048,16384,48,0,{'visibility_delay': 1}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,concurrent_writer,20260917,12,2048,16384,48,0,{'concurrent': True}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,adverse_model_actions,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,tokens_1024,20260917,12,1024,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,tokens_4096,20260917,12,4096,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,calls_24,20260917,12,2048,16384,24,0,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,sampling_20260918,20260918,12,2048,16384,48,0.7,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,sampling_20260919,20260919,12,2048,16384,48,0.7,{}
+data/gptoss_compile_recovery_v1/combined_a/plan.json,sampling_20260920,20260920,12,2048,16384,48,0.7,{}
+data/gptoss_compile_recovery_v1/combined_c/plan.json,decision_branches,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_c/plan.json,external_actions,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_c/plan.json,preexisting_cancelled,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_c/plan.json,preexisting_different,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_c/plan.json,preexisting_equivalent,20260917,12,2048,16384,48,0,{}
+data/gptoss_compile_recovery_v1/combined_d/plan.json,strict_raw_budget_12,20260917,12,2048,16384,12,0,{}
+data/b_lite_v1/plan.json,external_qa_lite,20260917,20,2048,16384,48,,
+data/b_lite_llama_eight_gpu_v1/plan.json,external_qa_lite,20260917,20,2048,16384,48,,
+data/b_lite_remaining_models_v1/plan.json,external_qa_lite,20260917,20,2048,16384,48,,
+data/b_lite_gptoss_env_v1/plan.json,external_qa_lite,20260917,20,2048,16384,48,,
